@@ -1,3 +1,4 @@
 # python_neuron
-Python (Data Science) Course w/ iNeuron
-Files related to the course
+Python (Data Science) course w/ iNeuron
+
+Repo for files related to the course
